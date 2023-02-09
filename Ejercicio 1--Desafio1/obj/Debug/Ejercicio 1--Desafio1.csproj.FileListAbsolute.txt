@@ -1,0 +1,16 @@
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\Ejercicio 1--Desafio1\bin\Debug\Ejercicio 1--Desafio1.exe.config
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\Ejercicio 1--Desafio1\bin\Debug\Ejercicio 1--Desafio1.exe
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\Ejercicio 1--Desafio1\bin\Debug\Ejercicio 1--Desafio1.pdb
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\Ejercicio 1--Desafio1\obj\Debug\Ejercicio 1--Desafio1.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\Ejercicio 1--Desafio1\obj\Debug\Ejercicio 1--Desafio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\Ejercicio 1--Desafio1\obj\Debug\Ejercicio 1--Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\Ejercicio 1--Desafio1\obj\Debug\Ejercicio 1--Desafio1.exe
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\Ejercicio 1--Desafio1\obj\Debug\Ejercicio 1--Desafio1.pdb
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\DESAFIO PRACTICO 1\Ejercicio 1--Desafio1\bin\Debug\Ejercicio 1--Desafio1.exe.config
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\DESAFIO PRACTICO 1\Ejercicio 1--Desafio1\bin\Debug\Ejercicio 1--Desafio1.exe
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\DESAFIO PRACTICO 1\Ejercicio 1--Desafio1\bin\Debug\Ejercicio 1--Desafio1.pdb
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\DESAFIO PRACTICO 1\Ejercicio 1--Desafio1\obj\Debug\Ejercicio 1--Desafio1.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\DESAFIO PRACTICO 1\Ejercicio 1--Desafio1\obj\Debug\Ejercicio 1--Desafio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\DESAFIO PRACTICO 1\Ejercicio 1--Desafio1\obj\Debug\Ejercicio 1--Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\DESAFIO PRACTICO 1\Ejercicio 1--Desafio1\obj\Debug\Ejercicio 1--Desafio1.exe
+C:\Users\MINEDUCYT\Documents\trabajos de Visual Studio 2022\DESAFIO PRACTICO 1\Ejercicio 1--Desafio1\obj\Debug\Ejercicio 1--Desafio1.pdb
